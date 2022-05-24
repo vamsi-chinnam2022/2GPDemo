@@ -3,7 +3,7 @@
     {
       "path": "force-app",
       "package": "2GP Demo",
-      "versionNumber": "1.0.0.NEXT"
+      "versionNumber": "1.0.0.NEXT",
       "default": true
     }
   ],
